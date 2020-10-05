@@ -1,0 +1,14 @@
+{
+  "name": "new-css",
+  "version": "1.0.0",
+  "description": "Woohoo Digital",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Berke Günen",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}
